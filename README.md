@@ -2,8 +2,9 @@
 ROS package for Amber B1
 
 
-# Guide
- First install ROS Noetic guide from here: http://wiki.ros.org/noetic/Installation/Ubuntu 
+QuickStart Guide
+----------------
+#### First install ROS Noetic guide from here: http://wiki.ros.org/noetic/Installation/Ubuntu 
  
  Create a workspace 
  
@@ -25,7 +26,7 @@ ROS package for Amber B1
  
  ``catkin_make``  
  
-Create the ros1_bridge workspace. We build the bridge in a separate workspace because it needs to see both ROS1 and ROS2 packages in its environment and we want to make sure our application workspaces only see the packages from the distribution they are in.
+#### Create the ros1_bridge workspace. We build the bridge in a separate workspace because it needs to see both ROS1 and ROS2 packages in its environment and we want to make sure our application workspaces only see the packages from the distribution they are in.
 
 ``mkdir -p ~/ros1_bridge_ws/src``
 
