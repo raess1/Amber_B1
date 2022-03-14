@@ -3,7 +3,8 @@ ROS package for Amber B1
 
 
 # Guide
- First install ROS Noetic guide from here: http://wiki.ros.org/noetic/Installation/Ubuntu
+ First install ROS Noetic guide from here: http://wiki.ros.org/noetic/Installation/Ubuntu 
+ 
  Create a workspace 
  
  ``source /opt/ros/noetic/setup.bash`` 
