@@ -6,23 +6,23 @@ ROS package for Amber B1
  First install ROS Noetic guide from here: http://wiki.ros.org/noetic/Installation/Ubuntu
  Create a workspace 
  
- source /opt/ros/noetic/setup.bash 
+ ``source /opt/ros/noetic/setup.bash`` 
  
- mkdir -p ~/catkin_ws/src 
+ ``mkdir -p ~/catkin_ws/src`` 
  
- cd ~/catkin_ws/  
- catkin_make 
+ ``cd ~/catkin_ws/``  
+ ``catkin_make`` 
  
  
  Add amber_link 
  
- cd src 
+ ``cd src`` 
  
- git clone https://github.com/shnx/Amber_B1.git
+ ``git clone https://github.com/shnx/Amber_B1.git``
  
- cd.. 
+ ``cd..`` 
  
- catkin_make  
+ ``catkin_make``  
  
 
 
