@@ -34,7 +34,7 @@ Create the ros1_bridge workspace. We build the bridge in a separate workspace be
 
 ``. ~/catkin_ws/devel/setup.bash``
 
-``. ~/colcon_ws/install/setup.bash``
+``. ~/ros2_ws/install/setup.bash``
 
 ``echo $CMAKE_PREFIX_PATH | tr ':' '\n'``
 
