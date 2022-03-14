@@ -16,7 +16,7 @@ QuickStart Guide
  ``catkin_make`` 
  
  
- Add amber_link 
+ #### Clone amber_B1
  
  ``cd src`` 
  
